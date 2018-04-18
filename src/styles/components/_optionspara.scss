@@ -1,0 +1,14 @@
+.options_header {
+  font-size: $def-font-unit * 3;
+  font-weight: 450;
+  display: inline-block;
+  width: 83%;
+  margin: 0 auto;
+}
+.options_para {
+    color: desaturate($color: #043f57, $amount: 10);
+  }
+
+  .option_start {
+    color: desaturate($color: #6e2800, $amount: 10);
+  }

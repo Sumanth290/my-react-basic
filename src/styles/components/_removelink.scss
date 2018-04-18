@@ -1,0 +1,14 @@
+.remove_link {
+  display: inline-block;
+  width: 15%;
+  text-align: center;
+  }
+
+.removelink_anchor{
+  cursor: pointer;
+  color: rgb(74, 62, 247);
+  &:hover {
+    text-decoration: underline;
+    color: darken($color: red, $amount: 15);
+  }
+}

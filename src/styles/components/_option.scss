@@ -1,0 +1,10 @@
+.option {
+    padding: $def-font-unit ;
+    margin: $def-font-unit * 0.5;
+    border-style: inset;
+    background-color: darken($color: white, $amount: 0.5);
+    border-width: 0.1rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+  }

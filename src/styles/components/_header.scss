@@ -1,0 +1,34 @@
+.header {
+  background-color: $header-back;
+  color: $header-font-color;
+  padding: 0.5rem 7rem 1rem;
+  margin-bottom: $def-font-unit * 1;
+  height: auto;
+}
+
+.header__title {
+  padding-top: 1rem;
+  font-size: $def-font-unit * 5;
+  font-weight: 700;
+  display: inline-block;
+  margin-right: $def-font-unit * 3;
+}
+
+.header__icon {
+  vertical-align: bottom;
+  height: 3rem;
+  width: 2.8rem;
+}
+
+.header__subtitle {
+  color: white;
+  font-size: $def-font-unit * 3;
+  display: inline-block;
+  font-weight: 200;
+}
+
+.header__desc {
+  font-weight: normal;
+  margin-bottom: 2rem;
+  font-size: $def-font-unit * 2;
+}

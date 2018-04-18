@@ -1,0 +1,11 @@
+.big_button {
+    width: 100%;
+    padding: $def-font-unit * 2.5;
+    font-size: $def-font-unit * 3;
+    font-weight: bold;
+  }
+
+  .big_button_div {
+    display: flex;
+    justify-content: center;
+  }

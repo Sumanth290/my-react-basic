@@ -1,0 +1,10 @@
+.options {
+    padding : $def-font-unit;
+    margin-bottom : $def-font-unit ;
+    max-height: 25rem;
+    overflow: auto;
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+  }

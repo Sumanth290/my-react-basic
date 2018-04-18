@@ -1,0 +1,7 @@
+.optionbox {
+    padding: $def-font-unit * 2;
+    border-width: 0.5rem;
+    border-radius: 1rem;
+    margin-bottom: $def-font-unit *1.5 ;
+    background-color: darken($color: white, $amount: 1.5);
+  }

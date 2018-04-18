@@ -1,0 +1,9 @@
+.container {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 0 $def-font-unit * 8;
+}
+
+body {
+    background: linear-gradient(to right, #cfd9df 0%, #e2ebf0 100%) ;
+}
